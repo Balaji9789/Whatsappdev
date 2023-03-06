@@ -7,3 +7,5 @@ use to sava codsa and files
 hiding the las seen codes
 
 Adding the audio and video call feature
+
+Adding the status train
