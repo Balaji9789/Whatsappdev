@@ -6,6 +6,4 @@ use to sava codsa and files
 
 hiding the las seen codes
 
-Adding the audio call feature
-
-Adding the video call feature
+Adding the audio and video call feature
